@@ -1,0 +1,784 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SplitArray",
+            "request": "launch",
+            "mainClass": "Extras.SplitArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "splitArray",
+            "request": "launch",
+            "mainClass": "Extras.splitArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "MaxProfit",
+            "request": "launch",
+            "mainClass": "Extras.MaxProfit",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "containsTheSecondString",
+            "request": "launch",
+            "mainClass": "Extras.containsTheSecondString",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "mazeQ1",
+            "request": "launch",
+            "mainClass": "Maze.mazeQ1",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "permutations.Permutation",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "subsequenceIterative",
+            "request": "launch",
+            "mainClass": "recursion.StringAndSubsetQuestions.subsequenceIterative",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "ascii",
+            "request": "launch",
+            "mainClass": "recursion.StringAndSubsetQuestions.ascii",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Arrays.Question1",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question1Dupe",
+            "request": "launch",
+            "mainClass": "Arrays.Question1Dupe",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "arraylength",
+            "request": "launch",
+            "mainClass": "Arrays.arraylength",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "Arrays.arrays",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "FindSingleDigit",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.FindSingleDigit",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "NoOfSetBits",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.NoOfSetBits",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "NthMagicNumber",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.NthMagicNumber",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfBits",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.NumberOfBits",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.PowerOfTwo",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "RaiseToThePower",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.RaiseToThePower",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "XOR",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.XOR",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "checkOddEven",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.checkOddEven",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findDuplicates",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.findDuplicates",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findIthBit",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.findIthBit",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "rightmostSetBit",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.rightmostSetBit",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "sumOfpascalTriangle",
+            "request": "launch",
+            "mainClass": "BitwiseOperations.sumOfpascalTriangle",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "majorityElement",
+            "request": "launch",
+            "mainClass": "Extras.majorityElement",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "minNoOfString",
+            "request": "launch",
+            "mainClass": "Extras.minNoOfString",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "removeDupes",
+            "request": "launch",
+            "mainClass": "Extras.removeDupes",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "removeDupesinSortedArray",
+            "request": "launch",
+            "mainClass": "Extras.removeDupesinSortedArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "rotateLeft",
+            "request": "launch",
+            "mainClass": "Extras.rotateLeft",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "rotatedBS",
+            "request": "launch",
+            "mainClass": "Extras.rotatedBS",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "sumoftowarrays",
+            "request": "launch",
+            "mainClass": "Extras.sumoftowarrays",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "DualBinarySearch",
+            "request": "launch",
+            "mainClass": "LEETCODE.DualBinarySearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "FindMissing",
+            "request": "launch",
+            "mainClass": "LEETCODE.FindMissing",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "FlippingAnimage",
+            "request": "launch",
+            "mainClass": "LEETCODE.FlippingAnimage",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRoatedSortedArray",
+            "request": "launch",
+            "mainClass": "LEETCODE.SearchInRoatedSortedArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "LEETCODE.SplitArrayLargestSum",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "ceiling",
+            "request": "launch",
+            "mainClass": "LEETCODE.ceiling",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findDuplicate",
+            "request": "launch",
+            "mainClass": "LEETCODE.findDuplicate",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findMissing2",
+            "request": "launch",
+            "mainClass": "LEETCODE.findMissing2",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findMissingPositive",
+            "request": "launch",
+            "mainClass": "LEETCODE.findMissingPositive",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findmountainArray",
+            "request": "launch",
+            "mainClass": "LEETCODE.findmountainArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "infiniteArraySearch",
+            "request": "launch",
+            "mainClass": "LEETCODE.infiniteArraySearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "numberOfRotation",
+            "request": "launch",
+            "mainClass": "LEETCODE.numberOfRotation",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "peakElement",
+            "request": "launch",
+            "mainClass": "LEETCODE.peakElement",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "setMismatch",
+            "request": "launch",
+            "mainClass": "LEETCODE.setMismatch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "smallestLetter",
+            "request": "launch",
+            "mainClass": "LEETCODE.smallestLetter",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SieveofEratosthenes",
+            "request": "launch",
+            "mainClass": "Math.SieveofEratosthenes",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "checkPrime",
+            "request": "launch",
+            "mainClass": "Math.checkPrime",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "factorsFinding",
+            "request": "launch",
+            "mainClass": "Math.factorsFinding",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "findSqaureRoot",
+            "request": "launch",
+            "mainClass": "Math.findSqaureRoot",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "newtonRaphsonMethod",
+            "request": "launch",
+            "mainClass": "Math.newtonRaphsonMethod",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "MatrixTypeArray.BinarySearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "MatrixTypeArray.LinearSearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "MatrixTypeArray.SortedArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch(1)",
+            "request": "launch",
+            "mainClass": "Searching.BinarySearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch(1)",
+            "request": "launch",
+            "mainClass": "Searching.LinearSearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question1(1)",
+            "request": "launch",
+            "mainClass": "Searching.Question1",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question10",
+            "request": "launch",
+            "mainClass": "Searching.Question10",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question11",
+            "request": "launch",
+            "mainClass": "Searching.Question11",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Searching.Question2",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Searching.Question3",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Searching.Question4",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Searching.Question5",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "Searching.Question6",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question7",
+            "request": "launch",
+            "mainClass": "Searching.Question7",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "Searching.Question8",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Question9",
+            "request": "launch",
+            "mainClass": "Searching.Question9",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern.pattern1",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern10",
+            "request": "launch",
+            "mainClass": "pattern.pattern10",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern11",
+            "request": "launch",
+            "mainClass": "pattern.pattern11",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern.pattern2",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern.pattern3",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern.pattern4",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern.pattern5",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern.pattern6",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern.pattern7",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern.pattern8",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern.pattern9",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch(2)",
+            "request": "launch",
+            "mainClass": "recursion.ArrayQuestions.LinearSearch",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "MaximumElement",
+            "request": "launch",
+            "mainClass": "recursion.ArrayQuestions.MaximumElement",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBS",
+            "request": "launch",
+            "mainClass": "recursion.ArrayQuestions.RotatedBS",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "checkSortedArray",
+            "request": "launch",
+            "mainClass": "recursion.ArrayQuestions.checkSortedArray",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "BS",
+            "request": "launch",
+            "mainClass": "recursion.BS",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "NoOfSteps",
+            "request": "launch",
+            "mainClass": "recursion.NoOfSteps",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SkipString",
+            "request": "launch",
+            "mainClass": "recursion.StringAndSubsetQuestions.SkipString",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Subsequences",
+            "request": "launch",
+            "mainClass": "recursion.StringAndSubsetQuestions.Subsequences",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "skipCharacter",
+            "request": "launch",
+            "mainClass": "recursion.StringAndSubsetQuestions.skipCharacter",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "countZeros",
+            "request": "launch",
+            "mainClass": "recursion.countZeros",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.fibonacci",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld",
+            "request": "launch",
+            "mainClass": "recursion.helloWorld",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "recursion.palindrome",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "lowerPattern",
+            "request": "launch",
+            "mainClass": "recursion.pattern.lowerPattern",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "printNumbers",
+            "request": "launch",
+            "mainClass": "recursion.printNumbers",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "productUptoN",
+            "request": "launch",
+            "mainClass": "recursion.productUptoN",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "reverseNumber",
+            "request": "launch",
+            "mainClass": "recursion.reverseNumber",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "recursion.sorting.BubbleSort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "recursion.sorting.MergeSort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "recursion.sorting.QuickSort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "recursion.sorting.SelectionSort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "recursion.sumOfDigits",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "sumOfN",
+            "request": "launch",
+            "mainClass": "recursion.sumOfN",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "sorting.Bubblesort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Cyclesort",
+            "request": "launch",
+            "mainClass": "sorting.Cyclesort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Insertionsort",
+            "request": "launch",
+            "mainClass": "sorting.Insertionsort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsort",
+            "request": "launch",
+            "mainClass": "sorting.Selectionsort",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "PrettyPrinting",
+            "request": "launch",
+            "mainClass": "stringsAndStringBuilder.PrettyPrinting",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "concatenation",
+            "request": "launch",
+            "mainClass": "stringsAndStringBuilder.concatenation",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "pallindrome",
+            "request": "launch",
+            "mainClass": "stringsAndStringBuilder.pallindrome",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilder",
+            "request": "launch",
+            "mainClass": "stringsAndStringBuilder.stringBuilder",
+            "projectName": "java-DSA-course_96949a8"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "stringsAndStringBuilder.strings",
+            "projectName": "java-DSA-course_96949a8"
+        }
+    ]
+}
